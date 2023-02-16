@@ -17,4 +17,4 @@ function ptn(id, a, b, c) {
 }
 
 //ptn(identifier, endValue, duration[in ms], nbDecimales);
-ptn("target", 269+, 5000, 0);
+ptn("target", 269+, 6000, 0);
